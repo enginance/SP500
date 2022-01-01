@@ -6,7 +6,23 @@
     <a href="https://opensource.org/licenses/MIT">
         <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg"
             alt="MIT license"></a> &nbsp;
+    <a href="https://github.com/enginance/SP500/issues">
+        <img src="https://img.shields.io/github/issues/enginance/sp500"
+            alt="Issues"></a> &nbsp; 
+    <a href="https://github.com/enginance/SP500/issues">
+        <img src="https://img.shields.io/github/issues-closed/enginance/sp500"
+            alt="Issues"></a> &nbsp; 
+    <a href="https://github.com/enginance/SP500/pulls">
+        <img src="https://img.shields.io/github/issues-pr/enginance/sp500"         
+            alt="Pull requests"></a> &nbsp; 
+    <a href="https://github.com/enginance/SP500/pulls">
+        <img src="https://img.shields.io/github/issues-pr-closed/enginance/sp500"         
+            alt="Pull requests"></a> &nbsp; 
+    <a href="https://github.com/enginance/SP500">
+        <img src="https://img.shields.io/github/downloads/enginance/sp500/total"         
+            alt="Pull requests"></a> &nbsp; 
 </p>
+
 
 <!-- content -->
 
