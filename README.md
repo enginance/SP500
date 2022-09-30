@@ -30,6 +30,16 @@
 
 S&P500.py is a Python code to simply get list of companies in S&P 500 and export the dataframe to csv.
 
+
+
+## CSV output
+
+<p align="center">
+    <img width=100% src="https://github.com/enginance/SP500/blob/main/images/sp500_table.PNG">
+</p>
+
+
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pandas.
